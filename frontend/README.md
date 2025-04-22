@@ -23,7 +23,7 @@ bun dev
     Would you like to use App Router? (recommended) Yes
     Would you like to customize the default import alias (@/*)? Yes
 
-- ```cd ai-chat-app```
+- ```cd frontend```
 - ```npm install ai @ai-sdk/openai```
 - ```npm install lucide-react framer-motion react-markdown```
 - ```npm install uuid adm-zip```
