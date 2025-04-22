@@ -20,12 +20,6 @@ This template enables:
 
 - ✅ Modern React + Tailwind CSS stack
 - ✅ Clean, responsive, and customizable interface
-- ✅ Built for integration with:
-  - OpenAI / Azure OpenAI
-  - LangChain, LlamaIndex, or custom pipelines
-  - Vector databases (Pinecone, Weaviate, FAISS)
-- ✅ Easy deployment with Vite
-- ✅ Document upload, citations, and chat history ready (extendable)
 
 ---
 
